@@ -1,0 +1,8 @@
+{
+  "symbol": "XAUUSD",
+  "timeframe": "mt5.TIMEFRAME_M5",
+  "rsi_period": 14,
+  "rsi_overbought": 70,
+  "rsi_oversold": 30,
+  "interval": 60
+}
